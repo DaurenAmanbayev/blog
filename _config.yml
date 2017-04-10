@@ -1,15 +1,15 @@
 # Site settings
-title: Clean Blog
+title: QuickStart
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+email: itbook@inbox.ru
+copyright_name: Dauren Amanbayev
+description: "ИТ самообучение под руководством опытного ментора"
+baseurl: "/blog"
+url: "http://daurenamanbayev.github.io"
+twitter_username: AmanDaurt
+github_username:  daurenamanbayev
+facebook_username:  AmanDaurt
+email_username:  noreply@icenter-edu.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
