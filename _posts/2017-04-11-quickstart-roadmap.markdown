@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "I believe every human has a finite number of heartbeats. I don't intend to waste any of mine."
-date:       2014-09-18 12:00:00
-author:     "Start Bootstrap"
+title:      "Дорожная карта быстрого развития ИТ карьеры"
+date:       2017-04-11 12:00:00
+author:     "QuickStart"
 header-img: "img/post-bg-05.jpg"
 ---
-
+<h2 class="section-heading">QuickStart RoadMap</h2>
 <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
 
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
