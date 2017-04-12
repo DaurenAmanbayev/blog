@@ -44,6 +44,6 @@ header-img: "img/post-bg-06.jpg"
 	<li>CCIE Routing and Switching</li>
 </ul>
 </p>
-<p> Дорожная карта быстрого развития карьеры - QuickStart RoadMap</p>
+<p> Дорожная карта быстрого развития карьеры - <a href="https://daurenamanbayev.github.io/blog/2017/04/11/quickstart-roadmap/">QuickStart RoadMap</a></p>
 
 <p>Остались вопросы?! Напиши мне на электронную почту <a href="mailto:itbook@inbox.ru">itbook@inbox.ru</a>. В теме письма укажите "Ментор", чтобы правильно фильтровать входящие письма</p>
