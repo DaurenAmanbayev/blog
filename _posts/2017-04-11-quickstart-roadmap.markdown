@@ -1,42 +1,62 @@
 ---
 layout:     post
-title:      "Дорожная карта быстрого развития ИТ карьеры"
+title:      "Дорожная карта развития ИТ карьеры"
+subtitle:	"Общий план развития ИТ карьеры"
 date:       2017-04-11 12:00:00
 author:     "QuickStart"
 header-img: "img/post-bg-05.jpg"
 ---
-<h2 class="section-heading">QuickStart RoadMap</h2>
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+<h2 class="section-heading">Введение</h2>
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+<p>Как работает QuickStart?! Не нужно путать менторинг с курсами, мы курируем и направляем Вас, но не преподаем. Мы предоставляем материалы для изучения: ссылки, видеоматериалы, книги; укажем на какие курсы Вам или семинары Вам следовало посетить (комбинированное обучение приносит наиболее быстрый результат); ответим на возникающие и непонятные вопросы по материалу, проведем демо в сложных случаях. Это наиболее удобный формат для обучения занятым людям, умеющим достигать своих целей. Ключевым фактором менторинга является недостаток информации и порог вхождения, мы постараемся помочь преодолеть ее.</p>
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+<p>Объясняем поэтапно: Вы желаете изучить Hardware => Мы предлагаем Вам наш план по изучению указав темы, сроки, стоимость услуги => Вы ознакамливаетесь с планом, соглашаетесь (корректируете) и оплачиваете => Мы предоставляем Вам материалы поэтапно для самостоятельного изучения => У Вас возникли вопросы, пишите нам => Мы отвечаем Вам или проводим онлайн-встречу в Skype для обсуждения вопроса => Вопросов не осталось. Profit! Тема пройдена.</p>
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+<h2 class="section-heading">Проверка уровня знаний</h2>
 
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+<p>Для того чтобы нам начать сотрудничество, необходимо определить уровень Ваших знаний, уровень мотивации и ожидаемые сроки. </p>
 
-<h2 class="section-heading">The Final Frontier</h2>
+<p>Что из перечисленного Вам знакомо?! Оцените для каждого пункта от 0 до 10 ваш уровень навыков и знаний.</p>
+<ul>
+	<li>Аппаратное обеспечение компьютера: HDD, SSD, SSHD, RAM, CPU, GPU, USB, MotherBoard, Chipset, Clock Speed</li>
+	<li>Сети: IP Address, Network, Netmask, DNS, DHCP, Host, HTTP, FTP, Packet</li>
+	<li>Операционные системы: Windows XP, Windows 7, Linux, Install OS, Repair OS, UAC, Task Manager, CMD, Server</li>
+	<li>MS Office: Word, Office, Visio, Access</li>
+	<li>Базы данных: DBMS, CRUD, ACID, Transaction, Query</li>
+	<li>Программирование: C/C++, C#/Java, Python/PHP, XML, JSON, HTML/CSS, Web, Apache, CMS</li>
+	<li>Интернет: Proxy, VPN, Phishing, Spam, Fake, HTTPS, Safe Browsing, URL, Browser Addons, JavaScript</li>
+	<li>Медиа: Torrent, Webex, Skype, Java, Adobe Flash Player, Stream</li>
+	<li>Программы: Team Viewer, Notepad++, CCleaner, DRP, Git, UltraIso, KeePass, Putty, ConEmu, Cygwin</li>
+	<li>SEO и соцсети: Adword, Adsense, Analytics, Yandex Direct, API, bot</li>
+</ul>
+<p>И так сколько Вам удалось набрать баллов? Вы должны зафиксировать баллы для каждого пункта (Сети 10, Медиа 5 и т.п.), после данную информацию мы обязательно попросим выслать нам на почту.</p>
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+<h2 class="section-heading">Общий план</h2>
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+<p>Общий план включает возможные ответвления в сторону одного из направлений. Выбор направления зависит от Вас.</p>
 
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
+<ul>
+	<li>Basic: Аппаратное обеспечение компьютера, ОС Windows</li>
+	<li>Desktop: Виртуальные машины, ОС Windows (продвинутый пользователь), ОС Linux Desktop (Mint. Elementary)</li>
+	<li>Networking Basic: Сети, OSI, TCP/IP, IP адресация, Интернет</li>
+	<li>Networking Advanced</li>
+	<li>Programming Basic: Python/C#/Java/Bash Introduction</li>
+	<li>Programming Advanced</li>
+	<li>Web Development: HTML/CSS, JavaScript, SEO</li>
+	<li>Web Development Advanced</li>
+	<li>Database Basic: Database Intro</li>
+	<li>Database Advanced</li>
+	<li>Hardware: Server hardware, UPS, SAN, NAS системы</li>
+	<li>Windows Server Basic: Installing, Configuring Roles</li>
+	<li>Windows Server Advanced</li>
+	<li>VMware ESXi 5.5/6.0</li>
+	<li>Linux Basic: Command Line Usage, Basic configuration</li>
+	<li>Linux Middle: User/Group Management, SSH, Package Management, Linux Architecture</li>
+	<li>Linux Advanced:  Installing Application, Firewall, Network configuration</li>
+	<li>Monitoring and HelpDesk: SNMP, Email, OTRS, ZABBIX, Cacti</li>	 	
+</ul>
 
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+<p>Технические требования к Вам для начала работы: стабильный высокоскоростной Интернет, ноутбук/ПК с ОЗУ не менее 6Гб, ОС Windows 7 и выше, современный процессор (i3/i5/i7 или другие) не менее 2-х ядер для комфортной работы, свободное дисковое пространство не менее 150 Гб.</p>
 
-<h2 class="section-heading">Reaching for the Stars</h2>
+<p>Стоимость по темам и сроки менторинга обговариваются индивидуально.</p>
 
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
-</a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
