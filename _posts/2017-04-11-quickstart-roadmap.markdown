@@ -34,19 +34,16 @@ header-img: "img/post-bg-05.jpg"
 </ul>
 <p>И так сколько Вам удалось набрать баллов? Вы должны зафиксировать баллы для каждого пункта (Сети 10, Медиа 5 и т.п.), после данную информацию мы обязательно попросим выслать нам на почту.</p>
 
-<h2 class="section-heading">Общий план</h2>
+<h2 class="section-heading">План по развитию Software & Engineering Skills</h2>
 
-<p>Общий план включает возможные ответвления в сторону одного из направлений. Выбор направления зависит от Вас.</p>
+<p>Пключает возможные ответвления в сторону одного из направлений. Выбор направления зависит от Вас.</p>
 
 <ul>
 	<li>Basic: Аппаратное обеспечение компьютера, ОС Windows</li>
 	<li>Desktop: Виртуальные машины, ОС Windows (продвинутый пользователь), ОС Linux Desktop (Mint. Elementary)</li>
-	<li>Networking Basic: Сети, OSI, TCP/IP, IP адресация, Интернет</li>
-	<li>Networking Advanced</li>
-	<li>Programming Basic: Python/C#/Java/Bash Introduction</li>
-	<li>Programming Advanced</li>
-	<li>Web Development: HTML/CSS, JavaScript, SEO</li>
-	<li>Web Development Advanced</li>
+	<li>Networking: Fundamentals: OSI, TCP/IP, IP Addressing, DNS, DHCP, Wireless; Switching: VLAN, MPLS; Routing: OSPF, EIGRP</li>	
+	<li>Programming: C/C++/Python/C#/Java</li>	
+	<li>Web Development: HTML/CSS, JavaScript, SEO</li>	
 	<li>Database Basic: Database Intro</li>
 	<li>Database Advanced</li>
 	<li>Hardware: Server hardware, UPS, SAN, NAS системы</li>
