@@ -1,17 +1,17 @@
 # Site settings
-title: QuickStart
+title: BusinesSeo
 header-img: img/home-bg.jpg
 email: itbook@inbox.ru
 copyright_name: Dauren Amanbayev
-description: "ИТ самообучение под руководством опытного ментора"
+description: "Создание сайтов в Астане - студия BusinesSeo. Создание сайтов Астана. ☎ +7 7172****. Креативная разработка сайтов в Астане и продвижение сайтов в Астане."
 baseurl: "/blog"
 url: "http://daurenamanbayev.github.io"
 twitter_username: 
 github_username:  daurenamanbayev
-facebook_username:  quickstarticenter
-vk_username: thequickstart
+facebook_username:  businesseokz
+vk_username: businesseokz
 email_username:  itbook@inbox.ru
-youtube_username: ITwebinar
+youtube_username: BusinesSeokz
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
