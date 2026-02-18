@@ -40,6 +40,4 @@ tags:       [C#, .NET, OCR, Open Source]
 
 <p>You can explore the source code, check the preprocessing logic, or download the binary from the repository below.</p>
 
-<a href="https://github.com/DaurenAmanbayev/WindowsImagePdfOcr">
-    <img src="https://gh-card.dev/repos/DaurenAmanbayev/WindowsImagePdfOcr.svg" alt="DaurenAmanbayev/WindowsImagePdfOcr - GitHub">
-</a>
+<a href="https://github.com/DaurenAmanbayev/WindowsImagePdfOcr"><strong>WindowsImagePdfOcr</strong></a>
