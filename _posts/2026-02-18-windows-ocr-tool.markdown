@@ -1,44 +1,44 @@
 ---
 layout:     post
-title:      "Building a Desktop OCR Tool"
-subtitle:   "How I solved the problem of extracting text from scanned PDFs and images"
+title:      "Building a Native OCR Tool with .NET 8"
+subtitle:   "Leveraging Windows.Media.Ocr for high-performance local text extraction"
 date:       2026-02-18 12:00:00
 author:     "Dauren Amanbayev"
 header-img: "img/post-bg-01.jpg"
+tags:       [C#, .NET, OCR, Open Source]
 ---
 
-<p>We have all been there. You receive a document, a scanned invoice, or a screenshot with important data, and you need to copy that text. But you can't. It's just pixels.</p>
+<p>Cloud-based OCR solutions are powerful, but sometimes you need a tool that runs locally—securely, without API costs, and with zero latency. I decided to build exactly that using the power of the Windows Runtime (WinRT) APIs.</p>
 
-<p>Manual retyping is slow, boring, and error-prone. As an engineer, I believe that if a task takes more than 5 minutes and is repetitive, it should be automated.</p>
+<h2 class="section-heading">What is WindowsImagePdfOcr?</h2>
 
-<h2 class="section-heading">Introducing WindowsImagePdfOcr</h2>
+<p><strong>WindowsImagePdfOcr</strong> is a command-line tool and library implemented in <strong>C# targeting .NET 8</strong>. It acts as a wrapper around the built-in <code>Windows.Media.Ocr</code> engine, allowing developers and power users to extract text from images and PDF documents directly on their desktop environment.</p>
 
-<p>I developed a desktop application to solve this exact problem. <strong>WindowsImagePdfOcr</strong> is a lightweight tool designed to extract text from image files (JPG, PNG) and non-editable PDF scans using Optical Character Recognition (OCR) technology.</p>
-
-<p>You can find the full source code on my GitHub: <a href="https://github.com/DaurenAmanbayev/WindowsImagePdfOcr">WindowsImagePdfOcr Repository</a>.</p>
+<p>The project focuses on accuracy and ease of use, automating the tedious process of converting scanned documents into editable <code>.txt</code> files.</p>
 
 <h2 class="section-heading">Key Features</h2>
 
-<p>The application is built with C# and .NET, focusing on performance and ease of use. Here is what it can do:</p>
+<p>Unlike simple wrappers, this tool handles the entire pipeline of image processing to ensure the best recognition results:</p>
 
 <ul>
-    <li><strong>Image to Text:</strong> Drag and drop any screenshot or photo to extract content.</li>
-    <li><strong>PDF Scanning:</strong> Handles multi-page scanned PDF documents.</li>
-    <li><strong>Clipboard Integration:</strong> Copied text is instantly available to paste into Excel, Word, or your IDE.</li>
-    <li><strong>Simple UI:</strong> No complex configurations, just load the file and get the text.</li>
+    <li><strong>PDF Support:</strong> Automatically renders PDF documents page-by-page into high-resolution images for recognition.</li>
+    <li><strong>Smart Preprocessing:</strong> The engine doesn't just read the image; it improves it. It applies <em>padding</em>, <em>color inversion</em>, and <em>uniform scaling</em> to help the OCR engine detect characters more accurately.</li>
+    <li><strong>Format Agnostic:</strong> Works out-of-the-box with PNG, JPEG, BMP, TIFF, and GIF.</li>
+    <li><strong>Multi-Language Support:</strong> Includes a reusable OCR engine wrapper that supports language selection (e.g., <code>ru-RU</code>, <code>en-US</code>) based on installed Windows language packs.</li>
+    <li><strong>WinRT Integration:</strong> Designed to run on Windows environments that support native WinRT OCR APIs.</li>
 </ul>
 
-<h2 class="section-heading">How it Works</h2>
+<h2 class="section-heading">Technical Implementation</h2>
 
-<p>Under the hood, the software utilizes OCR libraries to analyze the patterns of light and dark in the image, recognizing them as characters. The challenge in such projects is often handling low-quality scans or weird fonts, which required some fine-tuning in the image processing pipeline.</p>
+<p>The core challenge was bridging .NET 8 with Windows native APIs to handle visual data efficiently. By utilizing the <code>Windows.Media.Ocr</code> namespace, the tool achieves enterprise-grade recognition quality without external dependencies like Tesseract.</p>
+
+<p>Extracted text is automatically saved to a <code>.txt</code> file located next to the input source, making batch processing of archives seamless.</p>
 
 <blockquote>
-  "Automation is cost-cutting by tightening the corners and not cutting them."
+  "The best tool is the one that respects your data privacy and works offline."
 </blockquote>
 
-<p>This project was a great way to dive deeper into desktop application lifecycles and image processing algorithms. Future updates might include support for more languages and batch processing.</p>
-
-<p>Feel free to fork the repo, report issues, or suggest features!</p>
+<p>You can explore the source code, check the preprocessing logic, or download the binary from the repository below.</p>
 
 <a href="https://github.com/DaurenAmanbayev/WindowsImagePdfOcr">
     <img src="https://gh-card.dev/repos/DaurenAmanbayev/WindowsImagePdfOcr.svg" alt="DaurenAmanbayev/WindowsImagePdfOcr - GitHub">
