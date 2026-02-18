@@ -1,24 +1,13 @@
-#Clean Blog by Start Bootstrap - Jekyll Version
+### Hi there 👋, I'm Dauren
 
-The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
+I am a **Software & System Engineer** based in Astana, focused on enterprise-grade network observability and network automation.
 
-###[View Live Demo &rarr;](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
-
-## Before You Begin
-
-In the _config.yml file, the base URL is set to /startbootstrap-clean-blog-jekyll which is this themes gh-pages preview. It's recommended that you remove the base URL before working with this theme locally!
-
-It should look like this:
-`baseurl: ""`
-
-## What's Included
-
-A full Jekyll environment is included with this theme. If you have Jekyll installed, simply run `jekyll serve` in your command line and preview the build in your browser. You can use `jekyll serve --watch` to watch for changes in the source files as well.
-
-A Grunt environment is also included. There are a number of tasks it performs like minification of the JavaScript, compiling of the LESS files, adding banners to apply the MIT license, and watching for changes. Run the grunt default task by entering `grunt` into your command line which will build the files. You can use `grunt watch` if you are working on the JavaScript or the LESS.
-
-You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
-
-## Support
-
-Visit Clean Blog's template overview page on Start Bootstrap at http://startbootstrap.com/template-overviews/clean-blog/ and leave a comment, email feedback@startbootstrap.com, or open an issue here on GitHub for support.
+- 🔭 **I’m currently working on:** Optimizing large-scale monitoring ecosystems and network automation.
+- 🌱 **I’m currently learning:** Cloud Architecture (AWS/GCP/Azure) and advanced DevOps methodologies.
+- 🛠 **Tech Stack:**
+  - **Languages:** Python, Java, C#, SQL.
+  - **Enterprise Monitoring:** IBM Tivoli Netcool/Omnibus, Infovista VistaInsight, Zabbix, PRTG, SolarWinds Network Performance, Netflow Analyzer, Naumen Network Management.
+  - **Databases:** MySQL, PostgreSQL, DB2, Oracle, ClickHouse.
+  - **Inventory & Management:** FNT Inventory, NetBox.
+  - **Automation:** Ansible, Terraform.
+  - **Networking & OS:** Cisco, Vagrant, VMware ESXi 5/6/7/8, Windows Server, RHEL/CentOS/Debian/Ubuntu.

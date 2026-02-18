@@ -1,27 +1,21 @@
 # Site settings
-title: BusinesSeo
+title: Dauren Amanbayev Blog
 header-img: img/home-bg.jpg
 email: itbook@inbox.ru
 copyright_name: Dauren Amanbayev
-description: "Создание сайтов в Астане - студия BusinesSeo. Создание сайтов Астана. ☎ +7 7172****. Креативная разработка сайтов в Астане и продвижение сайтов в Астане."
+description: "Personal blog of a Software & System Engineer about network observability, automation, and DevOps journey."
 baseurl: "/blog"
-url: "http://daurenamanbayev.github.io"
-twitter_username: 
-github_username:  daurenamanbayev
-facebook_username:  businesseokz
-vk_username: businesseokz
-email_username:  itbook@inbox.ru
-youtube_username: BusinesSeokz
+url: "https://daurenamanbayev.github.io"
 
-# Google Analytics
-# To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+# Social Networks
+github_username:  daurenamanbayev
+linkedin_username: amanbayevdauren
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["less", "node_modules", "Gruntfile.js", "package.json", "README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]
