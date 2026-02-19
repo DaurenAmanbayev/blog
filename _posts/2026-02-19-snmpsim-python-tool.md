@@ -2,7 +2,7 @@
 layout:     post
 title:      "Practical Device Emulation: Mimicking Hardware with snmpsim"
 subtitle:   "A hands-on guide to capturing real SNMP snapshots for local testing"
-date:       2026-02-19 10:00:00
+date:       2025-09-20 10:00:00
 author:     "Dauren Amanbayev"
 header-img: "img/post-bg-02.jpg"
 tags:       [SNMP, Networking, DevOps, Python]
