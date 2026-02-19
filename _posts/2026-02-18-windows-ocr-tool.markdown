@@ -34,10 +34,10 @@ tags:       [C#, .NET, OCR, Open Source]
 
 <p>Extracted text is automatically saved to a <code>.txt</code> file located next to the input source, making batch processing of archives seamless.</p>
 
-<blockquote>
-  "The best tool is the one that respects your data privacy and works offline."
-</blockquote>
+<h2 class="section-heading">Source Code</h2>
 
-<p>You can explore the source code, check the preprocessing logic, or download the binary from the repository below.</p>
+<p>The full source code is available on GitHub. It supports argument parsing for automation pipelines and handles language fallback (e.g., automatically selecting <code>en-US</code> or <code>ru-RU</code>).</p>
 
-<a href="https://github.com/DaurenAmanbayev/WindowsImagePdfOcr"><strong>WindowsImagePdfOcr</strong></a>
+<a href="https://github.com/DaurenAmanbayev/WindowsImagePdfOcr">
+    <img src="https://gh-card.dev/repos/DaurenAmanbayev/WindowsImagePdfOcr.svg" alt="DaurenAmanbayev/WindowsImagePdfOcr - GitHub">
+</a>
