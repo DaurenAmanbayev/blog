@@ -39,5 +39,5 @@ tags:       [C#, .NET, OCR, Open Source]
 <p>The full source code is available on GitHub. It supports argument parsing for automation pipelines and handles language fallback (e.g., automatically selecting <code>en-US</code> or <code>ru-RU</code>).</p>
 
 <a href="https://github.com/DaurenAmanbayev/WindowsImagePdfOcr">
-    <img src="https://gh-card.dev/repos/DaurenAmanbayev/WindowsImagePdfOcr.svg" alt="DaurenAmanbayev/WindowsImagePdfOcr - GitHub">
+    <img src="https://gh-card.dev/repos/DaurenAmanbayev/WindowsImagePdfOcr.svg?v=1" alt="GitHub Repo Card">
 </a>
